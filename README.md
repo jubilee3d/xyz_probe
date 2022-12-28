@@ -1,7 +1,7 @@
 # Jubilee XYZ Probe Tool
 A 10cc syringe extruder for gels, pastes, and other viscous media
 
-<img src="https://github.com/machineagency/jubilee_syringe_tool/blob/main/pics/xyz_probe.PNG" width="800">
+<img src="https://github.com/Poofjunior/jubilee_xyz_probe_tool/blob/main/pics/xyz_touch_probe_overview.png" width="800">
 
 ## Overview
 This is a Jubilee-compatible XYZ Probe.
