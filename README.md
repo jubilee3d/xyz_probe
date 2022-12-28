@@ -6,7 +6,7 @@ A touch probe for various measurement applications
 ## Overview
 This is a Jubilee-compatible XYZ Probe.
 It can act as a replacement for the existing z-limit switch or as a general means of inspecting items on the bed.
-Probing gives the machine the ability to register against arbitrary features on the bed, enabling the possibility of resuming partial prints, scanning objects, or inspecting existing the dimensions of objects.
+Probing gives the machine the ability to register against arbitrary features on the bed, enabling the possibility of resuming partial prints, scanning objects, or inspecting the existing dimensions of objects.
 
 The XYZ probe can be reproduced from both printed and stock parts with a single unit costing about $50.
 Simply order the parts in the [Shopping List](https://docs.google.com/spreadsheets/d/1exzQQtGWq62kmWazMUU2xbrfU62XK9QZYXhOB--K8R0/edit?usp=sharing) and follow the step-by-step instructions.
